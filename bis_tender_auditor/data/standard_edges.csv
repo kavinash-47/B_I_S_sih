@@ -1,0 +1,5 @@
+source_is_number,target_is_number,relationship_type,description,source_url,verification
+IS 1786,IS 1608,test_method,"IS 1608 defines the tensile testing procedure used to verify the yield strength of IS 1786 TMT bars.",https://law.resource.org/pub/in/bis/S03/is.1786.2008.pdf,secondary
+IS 2925,IS 4609,test_method,"IS 4609 provides the flammability test method for helmet materials.",https://bis.gov.in,secondary
+IS 1554,IS 10810 (Part 63),test_method,"IS 10810 Part 63 specifies the flame propagation test for cable safety.",https://bis.gov.in,secondary
+IS 14543,IS 14900,test_method,"IS 14900 provides microbiological testing methods for packaged water.",https://bis.gov.in,secondary

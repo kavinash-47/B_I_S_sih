@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+.pytest_cache/
+
+# Database
+bis_auditor.db
+
+# Frontend / Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+dist/
+
+# OS specific files
+.DS_Store
+Thumbs.db

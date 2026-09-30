@@ -1,0 +1,19 @@
+category: PVC cables
+description: "DEMO — checklist items proposed from BIS product-manual references; not exhaustive, needs officer review."
+requirements:
+  - name: conductor_material
+    required: true
+    hint: "e.g. copper, aluminium"
+  - name: voltage_rating
+    required: true
+    hint: "e.g. 450/750 V, 1100 V"
+  - name: conductor_size
+    required: true
+    unit: sq_mm
+  - name: insulation_material
+    required: true
+  - name: number_of_cores
+    required: false
+  - name: test_standard
+    required: true
+    hint: "Should reference the applicable IS test-method standard"

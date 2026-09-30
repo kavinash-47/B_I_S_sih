@@ -1,0 +1,6 @@
+query_id,query,language,expected_is_number,expected_role
+Q001,What is the correct IS standard for procuring 450/750V domestic PVC wiring cables?,English,IS 694,product
+Q002,Which standard defines the tensile testing method required for TMT steel bars?,English,IS 1608,test_method
+Q003,IS 2925:1984 ke anuroop suraksha helmet ke liye jwalanshilta parikshan kis maanak dwara kiya jaata hai?,Hindi,IS 4609,test_method
+Q004,What is the latest standard for uPVC potable water pipes replacing the 2000 version?,English,IS 4985,product
+Q005,110mm uPVC water pipe purchase which BIS standard is required?,Telugu-transliterated,IS 4985,product

@@ -1,0 +1,25 @@
+# Core API
+fastapi==0.141.1
+uvicorn[standard]==0.54.0
+python-multipart==0.0.32
+pydantic==2.13.5
+
+# Search
+rank_bm25==0.2.2
+scikit-learn==1.8.0
+
+# PDF parsing
+pymupdf==1.28.2
+
+# Units / contradiction checking
+pint==0.26.1
+
+# Config files
+pyyaml==6.0.3
+
+# PDF export
+reportlab
+
+# Testing (dev only)
+pytest
+httpx

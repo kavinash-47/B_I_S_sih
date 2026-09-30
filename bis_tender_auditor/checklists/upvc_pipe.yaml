@@ -1,0 +1,11 @@
+category: uPVC water pipes
+description: "DEMO — checklist items; not exhaustive, needs officer review."
+requirements:
+  - name: diameter
+    required: true
+    unit: mm
+  - name: pressure_class
+    required: true
+    hint: "e.g. Class 3, Class 4"
+  - name: potable_water_grade
+    required: true

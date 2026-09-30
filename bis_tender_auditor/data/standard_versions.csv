@@ -1,0 +1,7 @@
+old_is_number,old_year,new_is_number,new_year,relationship_type,effective_date,date_reliability,source_url,notes
+IS 8112,2013,IS 269,2015,merged_into,,unknown,https://www.bis.gov.in/know-your-standard/,"BIS portal confirms IS 8112:2013 withdrawn and BIS document STI/269/7 states it was merged into IS 269:2015. No confirmed legal effective date found yet; do not fabricate one."
+IS 12269,2013,IS 269,2015,merged_into,,unknown,https://www.bis.gov.in/know-your-standard/,"Same merger as above (53 grade OPC)."
+IS 10322 (Part 1),2014,IS 10322 (Part 1),2026,superseded_by,2026-08-02,official,https://www.crsbis.in/BIS/publicdashAction.do,"02 Aug 2026 is the BIS Registration Dept concurrent-running end date for LED luminaires."
+IS 4985,2000,IS 4985,2021,superseded_by,,unverified,https://www.bis.gov.in/know-your-standard/,"BIS portal confirms 2000 edition withdrawn and 2021 edition (Fourth Revision) in force. Claimed date 14 Jul 2021 in original team data did not match portal withdrawal timestamp (07 Mar 2023) -- omitted pending gazette confirmation."
+IS 9131,2021,IS 9131,2026,superseded_by,2026-12-09,secondary,https://egazette.gov.in/,"Gazette dated 09 Jun 2026 states both editions valid until 09 Dec 2026 -- that is the overlap-end date, not the gazette publish date."
+IS 15298 (Part 2),2016,IS 15298 (Part 2),2024,superseded_by,,official,https://www.bis.gov.in/know-your-standard/,"BIS portal confirms 2016 edition withdrawn (09 Dec 2025) and 2024 edition (Third Revision) in force."

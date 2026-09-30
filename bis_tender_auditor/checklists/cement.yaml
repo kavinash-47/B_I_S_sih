@@ -1,0 +1,16 @@
+category: Cement
+description: "DEMO — checklist items; not exhaustive, needs officer review."
+requirements:
+  - name: grade
+    required: true
+    hint: "e.g. 33, 43, 53 grade OPC"
+  - name: compressive_strength
+    required: true
+    unit: MPa
+  - name: quantity
+    required: true
+    unit: bags_or_tonnes
+  - name: packaging
+    required: false
+  - name: test_certificate
+    required: true

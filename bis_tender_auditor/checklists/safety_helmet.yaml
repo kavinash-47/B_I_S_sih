@@ -1,0 +1,11 @@
+category: Safety helmets
+description: "DEMO — checklist items; not exhaustive, needs officer review."
+requirements:
+  - name: shock_absorption
+    required: true
+  - name: penetration_resistance
+    required: true
+  - name: material
+    required: true
+  - name: colour
+    required: false

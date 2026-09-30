@@ -1,0 +1,15 @@
+category: LED street lights
+description: "DEMO — checklist items; not exhaustive, needs officer review."
+requirements:
+  - name: ip_rating
+    required: true
+    hint: "Weatherproofing rating, e.g. IP65"
+  - name: luminous_efficacy
+    required: true
+    unit: lm_per_W
+  - name: wattage
+    required: true
+    unit: W
+  - name: crs_registration
+    required: true
+    hint: "CRS registration under BIS is typically required for LED luminaires"
