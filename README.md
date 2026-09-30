@@ -3,10 +3,6 @@
 > **AI-Assisted Standards Verification for Government Procurement.**
 > *Checking tender specifications against Indian Standards — advisory, sourced, and auditable.*
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-Prototype-orange.svg)
-
 Smart India Hackathon 2026 · Problem Statement **SIH26108**
 Ministry of Consumer Affairs, Food & Public Distribution
 
